@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cc8ea9c-33d2-43c5-adc5-2747da36d195" name="Default Changelist" comment="" />
+    <list default="true" id="7cc8ea9c-33d2-43c5-adc5-2747da36d195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Try.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/numberb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/responsecheck.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheck.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheck.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheckClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheckClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
@@ -29,7 +67,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ts-react-master/lecture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ts-lecture" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,11 +91,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604285400819</updated>
-      <workItem from="1604285401854" duration="7878000" />
+      <workItem from="1604285401854" duration="8269000" />
+      <workItem from="1604294874866" duration="8134000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604300531729">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604300531729" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1604298785893">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604298785893" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
 
-import WordRealy from './wordRelay';
+import ResponseCheck from './responsecheck';
 
 
-ReactDOM.render(<WordRealy/>,document.querySelector('#root'));
+ReactDOM.render(<ResponseCheck/>,document.querySelector('#root'));
