@@ -29,7 +29,7 @@ const Td: FunctionComponent<Props> = ({ rowIndex, cellIndex, dispatch, cellData 
   }, [cellData]);
 
   return (
-      <td onClick={onClickTd}>{cellData}</td>
+    <td onClick={onClickTd}>{cellData}</td>
   )
 };
 

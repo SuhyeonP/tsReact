@@ -41,7 +41,7 @@ interface ClickCellAction {
 }
 
 const clickCell = (row: number, cell: number): ClickCellAction => {
-  return { type: CLICK_CELL, row, cell };
+  return { type: CLICK_CELL, row, cell };//[행,열]을 클릭하는 액션
 };
 
 interface ChangeTurnAction {
@@ -96,7 +96,7 @@ const reducer = (state: ReducerState, action: ReducerActions): ReducerState => {
 
 const TicTacToe = () => {
   const [state, dispatch] = useReducer<Reducer<ReducerState, ReducerActions>>(reducer, initialState);
-  const { tableData, turn, winner, recentCell } = state;
+  const { tableData, turn, winner, recentCell } = state;//구조분해
   // const [winner, setWinner] = useState('');
   // const [turn, setTurn] = useState('O');
   // const [tableData, setTableData] = useState([['', '', ''], ['', '', ''], ['', '', '']]);
@@ -145,10 +145,10 @@ const TicTacToe = () => {
   }, [recentCell]);
 
   return (
-    <>
-      <Table onClick={onClickTable} tableData={tableData} dispatch={dispatch} />
-      {winner && <div>{winner}님의 승리</div>}
-    </>
+      <>
+        <Table onClick={onClickTable} tableData={tableData} dispatch={dispatch} />
+        {winner && <div>{winner}님의 승리</div>}
+      </>
   )
 };
 

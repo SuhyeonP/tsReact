@@ -18,14 +18,14 @@ const Tr: FunctionComponent<Props> = ({ rowData, rowIndex, dispatch }) => {
   }, [rowData, dispatch, rowIndex]);
 
   return (
-      <tr>
-        {Array(rowData.length).fill(null).map((td, i) => (
-            useMemo(
-                () => <Td key={i} dispatch={dispatch} rowIndex={rowIndex} cellIndex={i} cellData={rowData[i]}>{''}</Td>,
-                [rowData[i]],
-            )
-        ))}
-      </tr>
+    <tr>
+      {Array(rowData.length).fill(null).map((td, i) => (
+        useMemo(
+          () => <Td key={i} dispatch={dispatch} rowIndex={rowIndex} cellIndex={i} cellData={rowData[i]}>{''}</Td>,
+          [rowData[i]],
+        )
+      ))}
+    </tr>
   );
 };
 

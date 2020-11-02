@@ -20,22 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc8ea9c-33d2-43c5-adc5-2747da36d195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Try.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/numberb.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/responsecheck.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/6.로또/Ballclass.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Ball.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Td.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Tr.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/lotto.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/rsp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/tictactoe.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheck.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheck.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheckClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/ResponseCheckClass.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/4.반응속도체크/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSP.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSP.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSPClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSPClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/6.로또/Lotto.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/6.로또/Lotto.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/6.로또/LottoClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/6.로또/LottoClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Td.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Td.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/TicTacToe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/TicTacToe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Tr.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Tr.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Try.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/numberb.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/responsecheck.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/wordRelay.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +53,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="JavaScript File" />
         <option value="tsconfig.json" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -67,7 +75,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ts-lecture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ts-react-master/lecture" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,8 +100,24 @@
       <option name="presentableId" value="Default" />
       <updated>1604285400819</updated>
       <workItem from="1604285401854" duration="8269000" />
-      <workItem from="1604294874866" duration="8134000" />
+      <workItem from="1604294874866" duration="12536000" />
+      <workItem from="1604311090285" duration="4199000" />
     </task>
+    <task id="LOCAL-00001" summary="response check">
+      <created>1604303798846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604303798846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="response check">
+      <created>1604303807111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604303807111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,12 +133,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="response check" />
+    <option name="LAST_COMMIT_MESSAGE" value="response check" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604300531729">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604300531729" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604307633320">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604307633320" />
     <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1604298785893">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
