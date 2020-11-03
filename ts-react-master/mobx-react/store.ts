@@ -13,7 +13,7 @@ interface UserStore {
   logOut: () => void;
 }
 
-const userStore = observable<UserStore>({
+const userStore:UserStore = observable<UserStore>({
   isLoggingIn: false,
   data: null,
   logIn: action((data: User) => {
@@ -21,7 +21,7 @@ const userStore = observable<UserStore>({
     setTimeout(action(() => {
       userStore.data = data;
       userStore.isLoggingIn = false;
-      postStore.data.push('1');
+      postStore.data.push('test post');
     }), 2000);
   }),
   logOut() {

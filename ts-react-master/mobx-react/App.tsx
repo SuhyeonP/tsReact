@@ -3,7 +3,6 @@ import { useCallback } from 'react';
 import { useLocalStore, useObserver } from 'mobx-react';
 import { action, runInAction } from 'mobx';
 import { useAsObservableSource } from 'mobx-react';
-// import useStore from './useStore';
 import { postStore, userStore } from './store';
 
 interface LocalStore {
@@ -28,7 +27,7 @@ const App = () => {
 
   const onLogIn = useCallback(() => {
     userStore.logIn({
-      nickname: 'zerocho',
+      nickname: 'testtest',
       password: '비밀번호',
     });
   }, []);
