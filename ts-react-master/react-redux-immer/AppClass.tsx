@@ -8,9 +8,10 @@ import {
 } from './actions/user';
 import { RootState } from './reducers';
 import { UserState } from './reducers/user';
+import {idpw} from './types'
 
 interface Props {
-  dispatchLogIn: ({ id, password } : { id: string, password: string }) => void;
+  dispatchLogIn: ({ id, password } : idpw) => void;
   dispatchLogOut: () => void;
   user: UserState;
 }
@@ -18,8 +19,8 @@ interface Props {
 class App extends Component<Props> {
   onClick = () => {
     this.props.dispatchLogIn({
-      id: 'zerocho',
-      password: '비밀번호',
+      id: 'test',
+      password: 'test',
     });
   };
 
@@ -28,6 +29,7 @@ class App extends Component<Props> {
   };
 
   render() {
+    console.log('여기는 class임다')
     const { user } = this.props;
     return (
       <div>
@@ -46,12 +48,12 @@ class App extends Component<Props> {
 
 const mapStateToProps = (state: RootState) => ({
   user: state.user,
-  posts: state.posts,
 }); // reselect
 
 const mapDispatchToProps = (dispatch: ThunkDispatch) => ({
-  dispatchLogIn: (data: { id: string, password: string }) => dispatch(logIn(data)),
+  dispatchLogIn: (data: idpw) => dispatch(logIn(data)),
   dispatchLogOut: () => dispatch(logOut()),
 });
+
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);

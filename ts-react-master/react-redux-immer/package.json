@@ -1,12 +1,12 @@
 {
-  "name": "1.redux",
+  "name": "redux",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot"
   },
-  "author": "",
+  "author": "hyoni",
   "license": "ISC",
   "dependencies": {
     "@types/react": "^16.9.19",

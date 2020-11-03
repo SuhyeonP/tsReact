@@ -12,15 +12,15 @@ export interface UserState {
   isLoggingIn: boolean,
   data: {
     nickname: string;
-  } | null,
+  } | null,//로그인 안하면 데이터가 없으니까
 }
 
 const initialState: UserState = {
   isLoggingIn: false,
   data: null,
 };
-
-const userReducer = (prevState = initialState, action: LogInRequestAction | LogInSuccessAction | LogInFailureAction | LogOutAction) => { // 새로운 state 만들어주기
+type userCode=LogInRequestAction | LogInSuccessAction | LogInFailureAction | LogOutAction
+const userReducer = (prevState = initialState, action:userCode ) => { // 새로운 state 만들어주기
   return produce(prevState, (draft) => {
     switch (action.type) {
       case LOG_IN_REQUEST:

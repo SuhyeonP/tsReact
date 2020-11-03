@@ -1,7 +1,5 @@
 import * as React from 'react';
-import NumberBaseball from '../3.숫자야구/NumberBaseballClass';
-import RSP from '../5.가위바위보/RSPClass';
-import Lotto from '../6.로또/LottoClass';
+import NumberBaseball from '../3.숫자야구/NumberBaseball';
 import { useRouteMatch, useLocation, useHistory } from 'react-router';
 
 const GameMatcher = () => {
@@ -19,10 +17,6 @@ const GameMatcher = () => {
     console.log(urlSearchParams.get('page'));
     if (match.params.name === 'number-baseball') {
         return <NumberBaseball />
-    } else if (match.params.name === 'rock-scissors-paper') {
-        return <RSP />
-    } else if (match.params.name === 'lotto-generator') {
-        return <Lotto />
     } else {
         return (
             <div>

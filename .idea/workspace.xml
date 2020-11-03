@@ -20,30 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc8ea9c-33d2-43c5-adc5-2747da36d195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ts-react-master/6.로또/Ballclass.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Ball.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Td.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/Tr.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/lotto.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/rsp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/tictactoe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/MineSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/lecture/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSP.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSP.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSPClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/5.가위바위보/RSPClass.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/6.로또/Lotto.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/6.로또/Lotto.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/6.로또/LottoClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/6.로또/LottoClass.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Table.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Td.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Td.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/TicTacToe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/TicTacToe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/7.틱택토/Tr.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/7.틱택토/Tr.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Try.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/3.숫자야구/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/3.숫자야구/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/8.지뢰찾기/MineSearch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/8.지뢰찾기/MineSearch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/8.지뢰찾기/Table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/8.지뢰찾기/Table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Ball.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/Form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/Table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Td.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/Td.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/Tr.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/Tr.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/client.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/numberb.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/responsecheck.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/types.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/wordRelay.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/lotto.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/tictactoe.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/lecture/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/AppClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/AppClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/actions/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/actions/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/reducers/post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/reducers/post.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-redux-immer/reducers/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-redux-immer/reducers/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/GameMatcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/GameMatcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/GameMatcherClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/GameMatcherClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/Games.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/Games.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/client.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts-react-master/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ts-react-master/react-router/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +106,9 @@
       <updated>1604285400819</updated>
       <workItem from="1604285401854" duration="8269000" />
       <workItem from="1604294874866" duration="12536000" />
-      <workItem from="1604311090285" duration="4199000" />
+      <workItem from="1604311090285" duration="4460000" />
+      <workItem from="1604357829873" duration="3740000" />
+      <workItem from="1604361611659" duration="11048000" />
     </task>
     <task id="LOCAL-00001" summary="response check">
       <created>1604303798846</created>
@@ -117,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604303807111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1102last">
+      <created>1604316472828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604316472828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,17 +151,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="response check" />
-    <option name="LAST_COMMIT_MESSAGE" value="response check" />
+    <MESSAGE value="1102last" />
+    <option name="LAST_COMMIT_MESSAGE" value="1102last" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604300531729">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1221" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604300531729" />
-    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604307633320">
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604359180982">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604307633320" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604359180982" />
     <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1604298785893">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>

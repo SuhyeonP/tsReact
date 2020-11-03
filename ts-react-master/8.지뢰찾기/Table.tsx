@@ -8,7 +8,7 @@ const Table = () => {
     return (
         <table>
             <tbody>
-                {Array(tableData.length).fill(null).map((tr, i) => <Tr key={i} rowIndex={i} />)}
+            {Array(tableData.length).fill(null).map((tr, i) => <Tr key={i} rowIndex={i} />)}
             </tbody>
         </table>
     );

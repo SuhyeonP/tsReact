@@ -11,8 +11,8 @@ const App: FC = () => {
 
     const onClick = () => {
         dispatch(logIn({
-            id: 'zerocho',
-            password: '비밀번호',
+            id: 'test',
+            password: 'test',
         }));
     }
 
@@ -20,13 +20,10 @@ const App: FC = () => {
         dispatch(logOut());
     }
 
+    console.log('여기는 hooks임다')
     return (
         <div>
-            {isLoggingIn
-                ? <div>로그인 중</div>
-                : data
-                    ? <div>{data.nickname}</div>
-                    : '로그인 해주세요.'}
+            {isLoggingIn ? <div>로그인 중</div> : data ? <div>{data.nickname}</div> : '로그인 해주세요.'}
             {!data
                 ? <button onClick={onClick}>로그인</button>
                 : <button onClick={onLogout}>로그아웃</button>}
